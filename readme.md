@@ -61,7 +61,7 @@ Finally, we build a Weibo active user pool with **20 million** users, accounting
 
 ### COVID-19
 
-Paper: [Weibo-COV: A Large-Scale COVID-19 Social Media Dataset from Webio](https://arxiv.org/abs/2005.09174)
+Paper: [Weibo-COV: A Large-Scale COVID-19 Social Media Dataset from Weibo](https://arxiv.org/abs/2005.09174)
 
 - Time Period: 2019-12-01 00:00 - 2020-04-30 23:59 (GMT+8)
 - Keyowds: [totle of 179 selected keywords](./keywords/COVID-19.txt)
@@ -80,7 +80,7 @@ IBddHC95C,1587537502,2020-04-01 00:00,0,0,0,"在日前的白宫新冠病毒疫�
 - Cite this dataset
 ```
 @misc{hu2020weibocov,
-    title={Weibo-COV: A Large-Scale COVID-19 Social Media Dataset from Webio},
+    title={Weibo-COV: A Large-Scale COVID-19 Social Media Dataset from Weibo},
     author={Yong Hu and Heyan Huang and Anfan Chen and Xian-Ling Mao},
     year={2020},
     eprint={2005.09174},
